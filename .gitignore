@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
