@@ -135,39 +135,6 @@ Visual attendance statistics
 
 https://github.com/RajputPraful/attendx/releases/latest
 
----
-
-# 📸 Screenshots
-
-## 🏠 Dashboard
-
-![Dashboard](screenshots/dashboard.jpeg)
-
----
-
-## 📚 Subjects
-
-![Subjects](screenshots/subjects.jpeg)
-
----
-
-## 📅 Timetable
-
-![Timetable](screenshots/timetable.jpeg)
-
----
-
-## 📆 Calendar
-
-![Calendar](screenshots/calendar.jpeg)
-
----
-
-## ⚙ Settings
-
-![Settings](screenshots/settings.jpeg)
-
----
 
 # ⚙ Tech Stack
 
